@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Thelma-Chirchir
-- 👀 I’m interested in ... artificialn inteligence 
+- 👀 I’m interested in ... software engineering
 - 🌱 I’m currently learning ... python 
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... thelmachepkoech@kabarak.ac.ke
+- 📫 How to reach me ... thelmachepkoech@gmail.com
 
 <!---
 Thelma-Chirchir/Thelma-Chirchir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
