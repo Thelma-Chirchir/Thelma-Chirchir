@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Thelma-Chirchir
 - 👀 I’m interested in ... software engineering
-- 🌱 I’m currently learning ... python 
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m a Python developer 
+- 💞️ I’m looking to collaborate on ...upskilling projects 
 - 📫 How to reach me ... thelmachepkoech@gmail.com
+- 
 
 <!---
 Thelma-Chirchir/Thelma-Chirchir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
