@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thelma-Chirchir
 - 👀 I’m interested in ... software engineering
-- 🌱 I’m a Python developer 
+- 🌱 I’m a software developer 
 - 💞️ I’m looking to collaborate on ...upskilling projects 
 - 📫 How to reach me ... thelmachepkoech@gmail.com
 - 
